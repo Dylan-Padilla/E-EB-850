@@ -57,12 +57,19 @@ The ecological niche has been defined as multidimensional hypervolume space with
 
 <br>
 
-- Extensive evidence for rate heterogeneity (heterotachy) in squamate climatic niche evolution, both over time and among lineages
-
+The distribution of squamate species on the pPCA ordination plot showed that most species can be found in arid climatic conditions, with relatively low precipitation and high temperatures (figure 1)
 
 ## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
 
 ![](imgs/figure1.png)
+
+
+## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<br>
+
+Posterior predictive simulations based on the ARBUTUS method indicated that the BM model showed a poor fit to the dataset for all three PCs
+
 
 ## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
 
@@ -70,11 +77,27 @@ The ecological niche has been defined as multidimensional hypervolume space with
 <img src='imgs/figure2.png' width=750px height=600px/>
 </center>
 
+
+## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<br>
+
+A consistent pattern was uncovered when variation in rates through time was assessed based on DTT plots, indicating higher levels of disparity than expected by chance (figure 3)
+
+
 ## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
 
 <center>
 <img src='imgs/figure3.png' width=750px height=600px/>
 </center>
+
+
+## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<br>
+
+The MOTMOT analyses detected frequent variation in rates of climatic niche evolution, both over time and among lineages (figure 5)
+
 
 ## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
 
