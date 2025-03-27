@@ -1,0 +1,84 @@
+---
+title: 'The evolution of climatic niches insquamate reptiles'
+author: '<br><br>Pie et al., 2017.'
+format: 
+  revealjs:
+    chalkboard: true
+    incremental: true
+    logo: imgs/yale-logo.png
+    footer: "🔗 [https://dylanpadilla.netlify.app/](https://dylanpadilla.netlify.app/)"
+    slide-number: true
+    multiplex: true
+    theme: [simple, assets/monash.scss]
+    show-slide-number: all
+    controls: true
+    width: 1280
+    height: 720
+    css: [assets/syntax-highlight.css, assets/custom.css, assets/pacman.css]
+    header-includes: |
+      <link rel="stylesheet" href="">
+execute:
+  echo: true
+---
+
+## [Definition of niche]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<br>
+
+The ecological niche has been defined asmultidimensional hypervolume space within which a species can persist 
+
+<br>
+
+- Grinnellian: Related to non-interactive broad-scale environmental variables
+
+- Eltonian: Focuses on biotic interactions
+
+
+## [Objectives]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<br>
+
+- To describe the general structure of squamate climatic niche space
+- To test for variation in rates of climatic niche evolution, bothamong clades and over time
+- To assess the extent towhich niche evolution corresponded to large-scale climaticchanges over the course of their history
+
+## [The premise]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<br>
+
+-  The extent to which climate influences species distribution is greater in ectotherms than inendotherms
+
+- That may have led to a stronger effect of his-torical climate change on squamate climatic niche evolution
+
+- Therefore, squamates' climatic niche evolution would be more protracted than that of Primates
+
+
+## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<br>
+
+- Extensive evidence for rate heterogeneity (heterotachy) in squamateclimatic niche evolution, both over time and among lineages
+
+
+## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+![](imgs/figure1.png)
+
+## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<center>
+<img src='imgs/figure2.png' width=750px height=600px/>
+</center>
+
+## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<center>
+<img src='imgs/figure3.png' width=750px height=600px/>
+</center>
+
+## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
+
+<center>
+<img src='imgs/figure4.png' width=750px height=600px/>
+</center>
+
