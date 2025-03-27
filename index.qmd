@@ -1,5 +1,5 @@
 ---
-title: 'The evolution of climatic niches insquamate reptiles'
+title: 'The evolution of climatic niches in squamate reptiles'
 author: '<br><br>Pie et al., 2017.'
 format: 
   revealjs:
@@ -25,7 +25,7 @@ execute:
 
 <br>
 
-The ecological niche has been defined asmultidimensional hypervolume space within which a species can persist 
+The ecological niche has been defined as multidimensional hypervolume space within which a species can persist 
 
 <br>
 
@@ -39,8 +39,8 @@ The ecological niche has been defined asmultidimensional hypervolume space withi
 <br>
 
 - To describe the general structure of squamate climatic niche space
-- To test for variation in rates of climatic niche evolution, bothamong clades and over time
-- To assess the extent towhich niche evolution corresponded to large-scale climaticchanges over the course of their history
+- To test for variation in rates of climatic niche evolution, both among clades and over time
+- To assess the extent to which niche evolution corresponded to large-scale climatic changes over the course of their history
 
 ## [The premise]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
 
@@ -57,7 +57,7 @@ The ecological niche has been defined asmultidimensional hypervolume space withi
 
 <br>
 
-- Extensive evidence for rate heterogeneity (heterotachy) in squamateclimatic niche evolution, both over time and among lineages
+- Extensive evidence for rate heterogeneity (heterotachy) in squamate climatic niche evolution, both over time and among lineages
 
 
 ## [Results]{style="font-family:Comic Sans MS;font-weight:normal;color:purple"} {background=''}
